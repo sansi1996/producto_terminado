@@ -21,6 +21,6 @@ Sistema web desarrollado para el sistema producto terminado en el Instituto Tecn
 - Archivos `.php`: Código fuente del sistema
 - `producto_terminado.sql`: Base de datos completa con estructura y datos
 
-## Evidencia de pasantía
+## Evidencia del laboratorio
 Este repositorio contiene el código y la base de datos desarrollados como parte del proyecto  
 Repositorio: https://github.com/sansi1996/producto_terminado
